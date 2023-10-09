@@ -1,6 +1,6 @@
-## Hi there!
+# Hi there!
 
-# My name is Sydney Miller
+### My name is Sydney Miller
 
 [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
 
