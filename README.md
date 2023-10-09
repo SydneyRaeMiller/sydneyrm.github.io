@@ -2,9 +2,9 @@
 
 ### My name is Sydney Miller
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+I am a recent graduate of Carnegie Mellon University with an MA in Literary and Cultural Studies and a focus in Humanities Analytics. Before earning my master;s degree, I recived by BA in English from Penn State, Schreyer Honors College--We Are!!
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+My research interests include AI and its social implications, natural language processing, humanities analytics, and pedagogy. 
 
 **Stop worrying about the style, focus on your writing.**
 
