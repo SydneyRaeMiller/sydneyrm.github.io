@@ -1,6 +1,6 @@
-# jekyllBear
+## Hi there!
 
-## An easy to use, minimal, text focused Jekyll theme
+# My name is Sydney Miller
 
 [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
 
